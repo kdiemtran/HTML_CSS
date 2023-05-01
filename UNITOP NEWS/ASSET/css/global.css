@@ -4,3 +4,9 @@
 .d-flex{
     display: flex;
 }
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.align-item-center{
+    align-items: center;
+}
