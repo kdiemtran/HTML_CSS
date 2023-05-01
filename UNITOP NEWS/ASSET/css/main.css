@@ -366,7 +366,6 @@ ul.list-topic li {
     padding-top: 10px;
     padding-bottom: 15px;
     justify-content: space-between;
-
 }
 
 #footer .box .box-head h3 {
@@ -374,7 +373,6 @@ ul.list-topic li {
     padding: 0;
     margin-top: 0;
     font-size: 14px;
-
 }
 
 #footer .box .box-body {
@@ -529,7 +527,6 @@ ul.footer-menu li:hover a {
     #footer {
         padding-top: 30px;
         padding-bottom: 40px;
-
     }
 
     #footer .box .box-head h3 {
@@ -544,18 +541,14 @@ ul.footer-menu li:hover a {
         width: calc(25% - 35px);
         padding-right: 35px;
     }
-
     #footer .box.follow-us {
-        width: 20%;
-        padding: 0;
+        width: calc(20%-15px);
+        padding-left: 15px;
+    
     }
-
-
-
     #footer .box.follow-us .box-body a {
         padding: 10px 16px;
     }
-
     #wr-copyright {
         font-size: 14px;
     }
