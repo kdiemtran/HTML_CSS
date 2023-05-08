@@ -509,7 +509,7 @@ ul.footer-menu li:hover a {
     ul.list-post .post .more-info .post-excerpt {
         padding-left: 30px;
         width: calc(70% - 30px);
-
+        font-size: 15px;
     }
 
     #content {
